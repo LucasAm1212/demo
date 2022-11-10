@@ -19,7 +19,7 @@ public class MyRoute extends RouteBuilder {
 
         //JacksonDataFormat notaDataFormat = new JacksonDataFormat(.class);
 
-        from("timer://scheduler?period=30s")
+        from("timer://scheduler?period=5s")
                 .transform().simple("{\"nome\" : \"Lucas\",\"idade\" : 22}")
                         .to("direct:converteJson");
 

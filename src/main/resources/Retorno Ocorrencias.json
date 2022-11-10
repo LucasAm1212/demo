@@ -1,0 +1,320 @@
+{
+	"SearchDocumentResult": {
+		"Items": [
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46691156 para o documento; ",
+				"CreationDate": "\/Date(1664396973000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "https:\/\/nfe.prefeitura.sp.gov.br\/contribuinte\/notaprint.aspx?inscricao=29109140&nf=13187&verificacao=7YHFLGLK",
+				"ItemId": 41859629,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "+ EXEMPLO DE NFSE QUE A ACTION RECEBE",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917131,
+					"MessageGuid": "0f6f6a8ef5d37b0a6ff44a4bfdad6278@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46691156,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46691790 para o documento no retorno da tipificação assíncrona; ",
+				"CreationDate": "\/Date(1664396976000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "NF 6272 ACTION SYSTEMS.pdf",
+				"ItemId": 41859633,
+				"MimeType": "application\/pdf",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "FWD: EXEMPLO NOTA QUE RECEBEMOS VIA EMAIL DA COMPLIANCE",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917136,
+					"MessageGuid": "06d8a9a925e9d7a6781feb8aecae4806@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "Documento possui um tipo válido (MIME type) para processamento; Documento enviado para a tipificação assíncrona;",
+					"OccurrenceId": 46691790,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46691146 para o documento; ",
+				"CreationDate": "\/Date(1664396970000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "https:\/\/nfe.prefeitura.sp.gov.br\/nfe.aspx?ccm=68447388&nf=70&cod=CG3JZVBH",
+				"ItemId": 41859624,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "+ EXEMPLO DE NFSE QUE A ACTION RECEBE - 3",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917127,
+					"MessageGuid": "0a9ae6b08cb6392e3a21ab3b776f33c5@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46691146,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46909971 para o documento; ",
+				"CreationDate": "\/Date(1665062789000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "http:\/\/nfse.isssbc.com.br\/birt\/frameset?__report=nfs_sao_bernardo_campo.rptdesign&cdVerificacao=CBUCOELGO&numNota=45396",
+				"ItemId": 42073371,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "NOTIFICAÇÃO DE EMISSÃO DE NOTA FISCAL ELETRÔNICA - ACADEMIA",
+					"From": "FERNANDOLUIZ_BIT@HOTMAIL.COM",
+					"Id": 18027683,
+					"MessageGuid": "DM8P223MB03810BD7711585C8367F8321FE5C9@DM8P223MB0381.NAMP223.PROD.OUTLOOK.COM",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46909971,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46909970 para o documento; ",
+				"CreationDate": "\/Date(1665062790000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "https:\/\/nfe.prefeitura.sp.gov.br\/nfe.aspx?ccm=37407775&nf=3050&cod=MMBQBBRW",
+				"ItemId": 42073375,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E NO. 3050 CANCELADA",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 18027685,
+					"MessageGuid": "16c941e96be077f0178618284853539a@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46909970,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46691167 para o documento; ",
+				"CreationDate": "\/Date(1664396975000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "https:\/\/nfe.prefeitura.sp.gov.br\/nfe.aspx?ccm=35951737&nf=8667&cod=XKQ5WGQX",
+				"ItemId": 41859631,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "+ 1 EXEMPLO DE NFSE QUE A ACTION RECEBE",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917135,
+					"MessageGuid": "c969d4a59cb00045042efd6fd987b47a@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46691167,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46691169 para o documento; ",
+				"CreationDate": "\/Date(1664396979000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "https:\/\/nfe.prefeitura.sp.gov.br\/nfe.aspx?ccm=57620113&nf=54003&cod=BTM8YL3N",
+				"ItemId": 41859636,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E NO. 54003",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917138,
+					"MessageGuid": "3eb00ddcaaaf9db9be7f51f25cfe6fd9@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46691169,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Este link não está cadastrado no controle de links como Bloqueado ou Liberado. ",
+				"CreationDate": "\/Date(1664396975000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "http:\/\/www11.goiania.go.gov.br\/sistemas\/snfse\/asp\/snfse00200w0.asp?inscricao=4257618&nota=14919&verificador=RVEA-AX73",
+				"ItemId": 41859630,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "+ OUTRO EXEMPLO DE NFSE QUE A ACTION RECEBE",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917133,
+					"MessageGuid": "fd822d24f601f939e9a4d6742e6b02e5@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "Documento possui um tipo válido (MIME type) para processamento; Este link não está cadastrado no controle de links como Bloqueado ou Liberado. ",
+					"OccurrenceId": 46701177,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			},
+			{
+				"AccessKey": "",
+				"Comments": "Documento possui um tipo válido (MIME type) para processamento; Link está presente na lista liberada; Documento foi atribuído pelo tipo configurado no email 'NFSE'; Checagem de duplicidade está ativada; Gerada a Ocorrência 46691170 para o documento; ",
+				"CreationDate": "\/Date(1664396978000-0300)\/",
+				"DocumentCode": "NFSE",
+				"DocumentGroup": "NFSE",
+				"FileName": "https:\/\/nfe.prefeitura.sp.gov.br\/nfe.aspx?ccm=57620113&nf=55221&cod=NSTRJL6P",
+				"ItemId": 41859635,
+				"MimeType": "link",
+				"PreOccurrence": {
+					"ChannelType": "1",
+					"CreationDate": 0,
+					"EmailAccount": {
+						"Email": "lawinova02@GMAIL.COM",
+						"Username": "lawinova02"
+					},
+					"EmailSubject": "ENC: NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E NO. 55221",
+					"From": "FERNANDO.SILVA@ACTIONSYS.COM.BR",
+					"Id": 17917137,
+					"MessageGuid": "1bfe65c6ce425681d9ecf16c26f8740e@actionsys.com.br",
+					"Status": "F",
+					"To": "LAWINOVA02@GMAIL.COM "
+				},
+				"RelatedFiles": [],
+				"Status": "F",
+				"Workflow": {
+					"CauseDescription": "NFSE",
+					"CauseId": 867,
+					"Comments": "GESTÃO DE CADASTRO",
+					"OccurrenceId": 46691170,
+					"RejectionDescription": "",
+					"Status": "F"
+				}
+			}
+		],
+		"Message": "A Pesquisa retornou 9 registro(s)",
+		"Pagination": {
+			"Count": "9",
+			"CurrentPage": "1",
+			"PageLength": "10",
+			"TotalPages": "1"
+		},
+		"Success": true
+	}
+}
